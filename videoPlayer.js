@@ -15,7 +15,7 @@ class VideoPlayer extends React.Component {
       <View>
         <KSYVideo
           source={{
-            uri: "rtmp://103.130.188.26:1935/ntv/live/live1"
+            uri: "rtmp://184.72.239.149/vod/mp4:bigbuckbunny_1500.mp4"
           }} // Can be a URL or a local file.
           ref={ref => {
             this.player = ref;
