@@ -25,9 +25,10 @@ class VideoPlayer extends React.Component {
           paused={this.state.paused} // Pauses playback entirely.
           resizeMode="cover" // Fill the whole screen at aspect ratio.*
           repeat={true} // Repeat forever.
-          playInBackground={true} // Audio continues to play when app entering background.
+          playInBackground={false} // Audio continues to play when app entering background.
           progressUpdateInterval={250.0}
           style={{ height: 400 }}
+          
         />
         {/*<Text>Video streaming....</Text>*/}
         <View style={styles.buttonStyle}>
