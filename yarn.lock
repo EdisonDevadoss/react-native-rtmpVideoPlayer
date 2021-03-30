@@ -3928,6 +3928,10 @@ react-is@^16.6.3, react-is@^16.8.1:
   version "16.8.2"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.2.tgz#09891d324cad1cb0c1f2d91f70a71a4bee34df0f"
 
+react-native-ksyvideo@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-ksyvideo/-/react-native-ksyvideo-2.0.0.tgz#985d73b03ddf588724f786635c6cb1988ed82937"
+
 react-native-nodemediaclient@^0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/react-native-nodemediaclient/-/react-native-nodemediaclient-0.1.2.tgz#556ff67b2cd697bc31b55c20670cfbf7bd45236b"
@@ -5031,8 +5035,8 @@ xtend@~4.0.1:
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.1.tgz#a5c6d532be656e23db820efb943a1f04998d63af"
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
 
 "y18n@^3.2.1 || ^4.0.0":
   version "4.0.0"
