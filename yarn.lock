@@ -2775,10 +2775,8 @@ json-stringify-safe@~5.0.1:
   resolved "https://registry.yarnpkg.com/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz#1296a2d58fd45f19a0f6ce01d65701e2c735b6eb"
 
 json5@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/json5/-/json5-2.1.0.tgz#e7a0c62c48285c628d20a10b85c89bb807c32850"
-  dependencies:
-    minimist "^1.2.0"
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.3.tgz#78cd6f1a19bdc12b73db5ad0c61efd66c1e29283"
 
 jsonfile@^2.1.0:
   version "2.4.0"
@@ -3927,6 +3925,10 @@ react-devtools-core@^3.4.2:
 react-is@^16.6.3, react-is@^16.8.1:
   version "16.8.2"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.2.tgz#09891d324cad1cb0c1f2d91f70a71a4bee34df0f"
+
+react-native-ksyvideo@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-ksyvideo/-/react-native-ksyvideo-2.0.0.tgz#985d73b03ddf588724f786635c6cb1988ed82937"
 
 react-native-nodemediaclient@^0.1.2:
   version "0.1.2"
